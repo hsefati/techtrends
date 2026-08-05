@@ -1,0 +1,10 @@
+apiVersion: v2
+name: techtrends
+description: A Helm chart for the TechTrends app
+type: application
+version: 1.0.0
+keywords:
+  - techtrends
+maintainers:
+  - name: Hamed Sefati
+    email: hsefati@gmail.com
